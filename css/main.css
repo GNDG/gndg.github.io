@@ -160,6 +160,12 @@ nav > a > img:hover {
   }
 }
 
+@media (max-width:450px) {
+  #gndg-logo{
+    width: 70%;
+  }
+}
+
 
 
 
